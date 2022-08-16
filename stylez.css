@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    overflow-x: hidden;
+}
+/* FIRST SECTION */
+.first-section {
+  margin: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.first-section .item1 img {
+  width: 70%;
+}
+.first-section .item1 .img img {
+  width: 40%;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.first-section .item1 {
+  word-spacing: 7px;
+  margin: 20px 2px;
+  padding: 20px 2px;
+  margin-left: 60px;
+  width: 50%;
+}
+.first-section .item2 img {
+  width: 85%;
+}
+/* SECOND SECTION */
+.second-section {
+  margin: 25px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.second-section .item3 img {
+  width: 75%;
+  margin-right: 100px;
+}
+.second-section .item4 {
+  width: 60%;
+  margin: 20px 20px;
+  padding: 20px 20px;
+  margin-right: 150px;
+}
+/* THIRD SECTION */
+.third-section {
+  margin: 25px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.third-section .item5 {
+  width: 60%;
+  margin: 20px 20px;
+  padding: 20px 20px;
+  margin-left: 30px;
+}
+.third-section .item6 img {
+  width: 70%;
+}
+/* FOURTH SECTION */
+.fourth-section {
+  margin: 25px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.fourth-section .item7 img {
+  width: 60%;
+}
+.fourth-section .item8 {
+  width: 40%;
+  margin: 20px 20px;
+  padding: 20px 20px;
+  margin-right: 100px;
+}
+.fourth-section .item8 img {
+  width: 100%;
+  padding: 20px 2px;
+  margin: 20px 2px;
+  margin-right: 300px;
+}
+/* FIFTH SECTION */
+.fifth-section {
+  margin: 25px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.fifth-section .item9 img {
+  width: 15%;
+  padding: 0px 10px;
+}
+h3 {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 10px;
+}
+p {
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
